@@ -36,8 +36,8 @@ Created by [@XayHanmonty](https://www.linkedin.com/in/visitxay-hanmonty/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ammaarreshi/Gemini-Search.git
-   cd Gemini-Search
+   git clone https://github.com/XayHanmonty/DeepRoots.git
+   cd DeepRoots
    ```
 
 2. Install dependencies:
@@ -83,7 +83,7 @@ Created by [@XayHanmonty](https://www.linkedin.com/in/visitxay-hanmonty/)
 
 ## License
 
-MIT License - feel free to use this code for your own projects!
+MIT License
 
 ## Acknowledgments
 
